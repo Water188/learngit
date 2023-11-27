@@ -1,0 +1,3 @@
+A new feature.
+-- from my-feature branch
+some changes
